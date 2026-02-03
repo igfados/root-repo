@@ -1,4 +1,4 @@
-<h1 align="center">assalamualaikum alt="mundur, kembali atau mengarah ke halaman repo"><br>  saya igfados </h1>
+<h1 align="center">assalamualaikum<br>  saya igfados </h1>
 <p align="center">
 </p>
 
