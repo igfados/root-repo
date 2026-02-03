@@ -1,4 +1,4 @@
-<h1 align="center">assalamu'alaikum <img src="" width="40px" alt="hi"><br>I'm igfados modz 😇 </h1>
+<h1 align="center">assalamualaikum <img src="" width="40px" alt="hi"><br>  saya igfados </h1>
 <p align="center">
   <img src="" />
 </p>
@@ -9,10 +9,10 @@
 
 <h1 align="center"> Nyambung dengan ku
 <p align="center">
-  <a href="https://instagram.com/offensivemaxwell"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://api.whatsapp.com/send/?phone=6285869484139&text=Assalamualaikum+Stah+Bolehkah+Kita+Berteman+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/mingguke13"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://api.whatsapp.com/send/?phone=6285285732192&text=Assalamualaikum++Bolehkah+Kita+Berteman+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://github.com/igfados"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com"><img src="" /> <br>
+  <a href="https://www.youtube.com/tpvgg"><img src="" /> <br>
 </p>
 
 
@@ -59,7 +59,7 @@
 <p align="center">
   <a href="https://github.com/igfados/"><img title="Author" src="b" /></a>
   <h4 align="center">
-  <a href="link wa"> CHAT DEVELOPER </a>
+  <a href="link wa"> CET DEFELOPER </a>
 </h4>
 </p>
 
@@ -90,4 +90,4 @@ jika sudah selesai langkah selanjutnya adalah nanti di termux nya akan muncul tu
 nah untuk menampilkan tombol special di termux yaitu seperti ctrl, home, dll caranya kalian
 tekan voleme up +q secara bersamaan maka akan muncul tombol specialnya di termux ya 
 terus jika sudah muncul ctrl nya kalian tinggal klik ctrl nya terus klik d terus enter
-lalu kembali lagi ke aplikasi termux nya dan lihat hasilnya ... Dan Jangan Lupa Subscribe YouTube idoskiiiiiii ;)
+lalu kembali lagi ke aplikasi termux nya dan lihat hasilnya ... Dan Jangan Lupa Subscribe YouTubeku ;)
