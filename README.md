@@ -1,6 +1,5 @@
 <h1 align="center">assalamualaikum <img src="" width="40px" alt="mundur, kembali atau mengarah ke halaman repo"><br>  saya igfados </h1>
 <p align="center">
-  <img src="" />
 </p>
 
 - 👼 My name is idos 
