@@ -12,11 +12,11 @@
   <a href="https://instagram.com/offensivemaxwell"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://api.whatsapp.com/send/?phone=6285869484139&text=Assalamualaikum+Stah+Bolehkah+Kita+Berteman+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://github.com/igfados"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com/channel/UCMnOhcDe_-8yE9jobx-JenA"><img src="https://img.shields.io/youtube/channel/subscribers/UCMnOhcDe_-8yE9jobx-JenA?style=social" /> <br>
+  <a href="https://www.youtube.com"><img src="" /> <br>
 </p>
 
 
-![Profil Dilihat](https://komarev.com/ghpvc/?username=pinomodz&color=blue&style=flat-square&label=Profile+Dilihat)
+![Profil Dilihat](Profile+Dilihat)
 ### Stats:
 
 <p align="center"><a href="https://github.com/igfados"><img src="https://github-readme-stats.vercel.app/api?username=igfados&show_icons=true&theme=radical"></a></p>
@@ -46,7 +46,7 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/PinoRecode?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
+![Metrics](https://metrics.lecoq.io/igfados?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
 
@@ -86,8 +86,8 @@
 
 ```
 tunggu prosess nya sampai selesai.
-jika sudah selesai langkah selanjutnya adalah nanti di termux nya akan muncul tulisan "ketikan Ctrl +d"
+jika sudah selesai langkah selanjutnya adalah nanti di termux nya akan muncul tulisan "kbismillah"
 nah untuk menampilkan tombol special di termux yaitu seperti ctrl, home, dll caranya kalian
-tekan voleme up +q secara bersamaan maka akan muncul tombol specialnya di termux
+tekan voleme up +q secara bersamaan maka akan muncul tombol specialnya di termux ya 
 terus jika sudah muncul ctrl nya kalian tinggal klik ctrl nya terus klik d terus enter
 lalu kembali lagi ke aplikasi termux nya dan lihat hasilnya ... Dan Jangan Lupa Subscribe YouTube idoskiiiiiii ;)
