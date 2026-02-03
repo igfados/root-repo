@@ -23,10 +23,10 @@
 <p align="center"><a href="https://github.com/igfados"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igfados&theme=radical&layout=compact"></a></p> 
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=ABOUT&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=home-termux-pinomod&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=Bot-Wa&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=self&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dos2unix=ABOUT&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ms-dos=home-termux-pinomod&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=WDOS=Bot-Wa&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DOSBOX=self&theme=nightowl)
 
 
 <p>
